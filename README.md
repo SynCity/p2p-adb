@@ -1,4 +1,4 @@
-p2p-adb Framework
+p2p-adb Framework SYNCity Fork
 =======
 
 **Phone-2-Phone adb Framework - A project for "debugging" phones... from other phones.**
@@ -97,6 +97,8 @@ Credits
 Me, you're welcome. [@theKos](https://twitter.com/#!/thekos)
 
 [Email](mailto:kyle@kyleosborn.com)
+
+with minor edits by SynCity 
 
 License
 -------
